@@ -1,0 +1,26 @@
+body {
+    background-color: #708090; /* Metallic gray */
+    color: #228B22; /* Forest green */
+    font-family: Arial, sans-serif;
+}
+
+#poemContainer {
+    margin-bottom: 20px;
+}
+
+.poem {
+    background-color: #000080; /* Navy blue */
+    padding: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+#inputContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#poemInput {
+    flex-grow: 1;
+    margin-right: 10px;
+}
